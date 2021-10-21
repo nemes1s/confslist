@@ -1,4 +1,4 @@
-![PyData Global logo](./PyData Global.png, "PyData Global logo")
+![PyData Global logo](./PyData&#32;Global.png?raw=true, "PyData Global logo")
 
 [PyData Global](https://pydata.org/global2021/)
 
