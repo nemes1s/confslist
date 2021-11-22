@@ -5,7 +5,7 @@
 
 **Date**: 25 November 2021 \
 **Location**: Online \
-**Price**: Free \
+**Price**: 80$ - basic, 480$ - premium \
 **Theme**: #python #caching #recognition #analysis #k8s #scalability #bigdata #opentelemetry
 
 We are excited to welcome the entire Python community to join us in the coming XtremePython 2021 online conferences. 
